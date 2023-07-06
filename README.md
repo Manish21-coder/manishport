@@ -69,7 +69,7 @@ This project is licensed under the [Manish21-coder License](LICENSE).
 
 ## Contact
 
-If you have any questions, feedback, or inquiries, please feel free to reach out to Manish through the contact form on the website or via email at [manish@example.com](mailto:raghavmanishprakash@gmail.com).
+If you have any questions, feedback, or inquiries, please feel free to reach out to Manish through the contact form on the website or via email at [raghavmanishprakash@gmail.com](mailto:raghavmanishprakash@gmail.com).
 
 ---
 
