@@ -38,8 +38,8 @@ nav{
 }
 
 .logo{
-    width: 140px;
-    mix-blend-mode: multiply;
+    width: 85px;
+    mix-blend-mode: color-burn;
     /* margin-left: 10%; */
 
 }
@@ -110,6 +110,7 @@ nav ul li a:hover::after{
 
 .about-col-1{
     flex-basis: 35%;
+    margin-left: 20px;
 
 }
 .about-col-1 img{
@@ -123,6 +124,10 @@ nav ul li a:hover::after{
 
 .about-col-2{
     flex-basis: 60%;
+    padding-right: 20px;
+}
+#about > div > div > div.about-col-2 > p{
+    text-align: justify;
 }
 
 .sub-title{
@@ -172,8 +177,8 @@ nav ul li a:hover::after{
     margin: 10px 0;
 }
 .tab-contents ul li span{
-    color: #b54769;
-    font-size: 14px;
+    color: #ffffff;
+    font-size: 16px;
 }
 
 .tab-contents{
@@ -380,6 +385,7 @@ nav ul li a:hover::after{
 
 .contact-left{
     flex-basis: 35%;
+    margin-left: 20px;
 
 
 }
