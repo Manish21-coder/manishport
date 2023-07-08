@@ -111,15 +111,12 @@ nav ul li a:hover::after{
 .about-col-1{
     flex-basis: 35%;
     margin-left: 20px;
-
+    
 }
 .about-col-1 img{
     width:100%;
     border-radius:15px;
-    -webkit-border-radius:15px;
-    -moz-border-radius:15px;
-    -ms-border-radius:15px;
-    -o-border-radius:15px;
+   
 }
 
 .about-col-2{
@@ -543,10 +540,12 @@ nav .fa-solid{
 
     .about-col-1 , .about-col-2{
         flex-basis: 100%;
+        margin: auto;
 
     }
     .about-col-1{
         margin-bottom: 30px;
+        justify-content: space-around;
     }
     .about-col-2{
         font-size: 14px;
