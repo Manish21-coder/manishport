@@ -540,14 +540,13 @@ nav .fa-solid{
 
     .about-col-1 , .about-col-2{
         flex-basis: 100%;
-<<<<<<< HEAD
+
         margin: auto;
         
-=======
-        margin-left: 0;
->>>>>>> 1be4ba591737082c12cf12921dc93d0d823e3d2d
 
     }
+
+    
     .about-col-1{
         margin-bottom: 30px;
         justify-content: space-around;
@@ -563,6 +562,9 @@ nav .fa-solid{
      }
      .contact-left,.contact-right{
         flex-basis: 100%;
+     }
+     .contact-right form{
+        margin-left: 15px;
      }
 
      .copyright{
