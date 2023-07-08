@@ -540,8 +540,12 @@ nav .fa-solid{
 
     .about-col-1 , .about-col-2{
         flex-basis: 100%;
+<<<<<<< HEAD
         margin: auto;
         
+=======
+        margin-left: 0;
+>>>>>>> 1be4ba591737082c12cf12921dc93d0d823e3d2d
 
     }
     .about-col-1{
