@@ -15,12 +15,14 @@ function opentab(tabname){
     document.getElementById(tabname).classList.add("active-tab");
 }
 
-var sidemennu = document.getElementById("sidemenu");
+// var sidemenu = document.getElementById("sidemenu");
 
 function openmenu() {
-  sidemennu.style.right = "0";
+  var sidemenu = document.getElementById("sidemenu");
+  sidemenu.classList.add("open");
 }
 
 function closemenu() {
-  sidemennu.style.right = "-200pxxxxxxxxxxx";
+  var sidemenu = document.getElementById("sidemenu");
+  sidemenu.classList.remove("open");
 }
